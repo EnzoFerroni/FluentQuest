@@ -3,95 +3,91 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=200&section=header&text=FluentQuest&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Terminal%20Game%20|%20Language%20Learning%20|%20Interactive%20Practice&descAlignY=60&descSize=18">
 
 <p align="center">
-  <i>🎮 A fun and interactive terminal game to enhance your language skills.</i>
-</p>
-
-<p align="center">
-  <i>🎮 Um jogo de terminal divertido e interativo para aprimorar suas habilidades linguísticas.</i>
+  <i>A fun and interactive terminal game to enhance your language skills.</i>
 </p>
 
 ---
 
-### 🌟 Features | Funcionalidades  
+### Features
 
 <div align="center">
 
-|  Feature  | Description | Descrição |
-|:---------:|:------------|:----------|
-| 🎯 | Engaging language minigames | Minigames envolventes para aprendizado de idiomas |
-| 🔊 | Audio-based translation challenge | Desafio de tradução baseado em áudio |
-| 📝 | Hidden word discovery | Descoberta de palavras ocultas |
-| 📚 | Interactive dictionary | Dicionário interativo |
-| 📖 | Reading comprehension mode | Modo de compreensão de leitura |
-| 🏆 | Reward system for progress | Sistema de recompensas para progresso |
+|  Feature  | Description |
+|:---------:|:------------|
+| Engaging language minigames | Play interactive games to learn languages |
+| Audio-based translation challenge | Listen and translate words or phrases |
+| Hidden word discovery | Find hidden words in sentences |
+| Interactive dictionary | Look up and review learned words |
+| Reading comprehension mode | Read passages and answer questions |
+| Reward system for progress | Earn rewards as you advance |
 
 </div>
 
-### 📦 Dependencies | Dependências  
+### Dependencies
 
 ```bash
 Swift: >= 5.5
 ```
 
-### 🚀 Getting Started | Começando  
+### Getting Started
 
 ```bash
-# Clone the repository | Clone o repositório
+# Clone the repository
 git clone https://github.com/matheussricardoo/FluentQuest.git
 
-# Navigate to project directory | Navegue até o diretório do projeto
+# Navigate to project directory
 cd FluentQuest
 
-# Compile the project | Compile o projeto
+# Compile the project
 swiftc -o FluentQuest main.swift
 
-# Run the game | Execute o jogo
+# Run the game
 ./FluentQuest
 ```  
 
-### 🎮 Game Modes | Modos de Jogo  
+### Game Modes
 
 <div align="center">
 
-| Mode | Description | Descrição |
-|:------:|:---------|:-------|
-| 🏆 Minigames | Play interactive language challenges | Jogue desafios interativos de linguagem |
-| 🔊 Listen & Translate | Hear words and provide the correct translation | Ouça palavras e forneça a tradução correta |
-| 🔤 Hidden Word | Guess the missing word in a sentence | Adivinhe a palavra oculta na frase |
-| 🎯 Multiple Choice | Choose the right translation among multiple options | Escolha a tradução correta entre várias opções |
-| 📖 Reading Mode | Read a passage and answer comprehension questions | Leia um texto e responda perguntas para testar a compreensão |
-| 📚 Dictionary | Review all learned words | Revise todas as palavras aprendidas |
+| Mode | Description |
+|:------:|:---------|
+| Minigames | Play interactive language challenges |
+| Listen & Translate | Hear words and provide the correct translation |
+| Hidden Word | Guess the missing word in a sentence |
+| Multiple Choice | Choose the right translation among multiple options |
+| Reading Mode | Read a passage and answer comprehension questions |
+| Dictionary | Review all learned words |
 
 </div>
 
-### 🛠️ Technical Structure | Estrutura Técnica  
+### Technical Structure
 
 <div align="center">
 
-| Class | Purpose | Propósito |
-|:-----:|:--------|:----------|
-| `Game` | Manages game flow and user interactions | Gerencia o fluxo do jogo e interações do usuário |
-| `Minigames` | Implements the different game challenges | Implementa os diferentes desafios do jogo |
-| `Dictionary` | Stores and retrieves learned words | Armazena e recupera palavras aprendidas |
-| `AudioProcessor` | Handles speech recognition and text-to-speech | Gerencia reconhecimento de fala e conversão de texto em voz |
+| Class | Purpose |
+|:-----:|:--------|
+| `Game` | Manages game flow and user interactions |
+| `Minigames` | Implements the different game challenges |
+| `Dictionary` | Stores and retrieves learned words |
+| `AudioProcessor` | Handles speech recognition and text-to-speech |
 
 </div>
 
-### 📊 Features Details | Detalhes das Funcionalidades  
+### Features Details
 
 <div align="center">
 
-| Feature | Description | Descrição |
-|:-------:|:------------|:----------|
-| 🎮 | Interactive gameplay | Jogabilidade interativa |
-| 🔊 | Audio-based challenges | Desafios baseados em áudio |
-| 🏆 | Reward system | Sistema de recompensas |
-| 📚 | Built-in dictionary | Dicionário integrado |
-| 📖 | Reading comprehension mode | Modo de compreensão de leitura |
+| Feature | Description |
+|:-------:|:------------|
+| Interactive gameplay | Play and learn in an engaging way |
+| Audio-based challenges | Listen and respond to audio prompts |
+| Reward system | Earn rewards for your progress |
+| Built-in dictionary | Access an integrated dictionary |
+| Reading comprehension mode | Test your reading comprehension |
 
 </div>
 
-### 👤 Authors | Autores  
+### Authors
 
 <div align="center">
   <table>
