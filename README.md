@@ -26,6 +26,7 @@
 - [Dependencies](#-dependencies)
 - [Getting Started](#-getting-started)
 - [Team](#-team)
+- [License](#-license)
 
 ---
 
@@ -175,10 +176,8 @@ open FluentQuest/FluentQuest.xcodeproj
 
 ---
 
-<div align="center">
+## 📄 License
 
 Released under the [MIT License](LICENSE). © 2025 Enzo Ferroni, Kleber Gadelha and Matheus Ricardo.
-
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=footer"/>
