@@ -33,16 +33,13 @@ Swift: >= 5.5
 
 ```bash
 # Clone the repository
-git clone https://github.com/matheussricardoo/FluentQuest.git
+git clone https://github.com/EnzoFerroni/FluentQuest.git
 
-# Navigate to project directory
+# Open the Xcode project
 cd FluentQuest
+open FluentQuest/FluentQuest.xcodeproj
 
-# Compile the project
-swiftc -o FluentQuest main.swift
-
-# Run the game
-./FluentQuest
+# Build & run the command-line game in Xcode with ⌘R
 ```  
 
 ### Game Modes
@@ -64,12 +61,14 @@ swiftc -o FluentQuest main.swift
 
 <div align="center">
 
-| Class | Purpose |
+| Module | Purpose |
 |:-----:|:--------|
-| `Game` | Manages game flow and user interactions |
-| `Minigames` | Implements the different game challenges |
-| `Dictionary` | Stores and retrieves learned words |
-| `AudioProcessor` | Handles speech recognition and text-to-speech |
+| `main.swift` | Entry point & main game loop (home navigation, SIGINT handling) |
+| `Menu/` | Menus & navigation: language select, study topics, exercise and game-mode pickers, dictionary |
+| `Exercícios/` | Core exercises: Palavreco, LigueLigue, TerminalFalante |
+| `Historia/` | Reading-comprehension stories: ViagemMundo, RotinaDiaria, ComprasMercado |
+| `PrintDosExs/` | ASCII-art rendering for each exercise |
+| `Utils/` | Helpers: input validation, text-to-speech, terminal clearing, questions |
 
 </div>
 
