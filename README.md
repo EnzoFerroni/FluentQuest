@@ -27,6 +27,7 @@
 
 ```bash
 Swift: >= 5.5
+Xcode: >= 14 (command-line tool target)
 ```
 
 ### Getting Started
