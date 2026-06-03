@@ -25,7 +25,7 @@
 - [Project Structure](#-project-structure)
 - [Dependencies](#-dependencies)
 - [Getting Started](#-getting-started)
-- [Authors](#-authors)
+- [Team](#-team)
 
 ---
 
@@ -146,7 +146,7 @@ open FluentQuest/FluentQuest.xcodeproj
 
 ---
 
-## 👥 Authors
+## 👥 Team
 
 <div align="center">
   <table>
