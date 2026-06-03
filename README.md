@@ -151,32 +151,23 @@ open FluentQuest/FluentQuest.xcodeproj
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <a href="https://github.com/EnzoFerroni" target="_blank">
-          <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
-        </a>
-        <a href="https://www.linkedin.com/in/enzoferroni/" target="_blank">
-          <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-        </a>
-        <br>Enzo Ferroni
+      <td align="center" width="33%">
+        <a href="https://github.com/EnzoFerroni" target="_blank"><img src="https://github.com/EnzoFerroni.png" width="100" alt="Enzo Ferroni"/></a>
+        <br/><sub><b>Enzo Ferroni</b></sub><br/><br/>
+        <a href="https://github.com/EnzoFerroni" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
+        <a href="https://www.linkedin.com/in/enzoferroni/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
       </td>
-      <td align="center">
-        <a href="https://github.com/Kleber-gadelha" target="_blank">
-          <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
-        </a>
-        <a href="https://www.linkedin.com/in/kleber-gadelha-917a6228b/" target="_blank">
-          <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-        </a>
-        <br>Kleber Gadelha
+      <td align="center" width="33%">
+        <a href="https://github.com/Kleber-gadelha" target="_blank"><img src="https://github.com/Kleber-gadelha.png" width="100" alt="Kleber Gadelha"/></a>
+        <br/><sub><b>Kleber Gadelha</b></sub><br/><br/>
+        <a href="https://github.com/Kleber-gadelha" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
+        <a href="https://www.linkedin.com/in/kleber-gadelha-917a6228b/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
       </td>
-      <td align="center">
-        <a href="https://github.com/matheussricardoo" target="_blank">
-          <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
-        </a>
-        <a href="https://www.linkedin.com/in/matheus-ricardo-426452266/" target="_blank">
-          <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-        </a>
-        <br>Matheus Ricardo
+      <td align="center" width="33%">
+        <a href="https://github.com/matheussricardoo" target="_blank"><img src="https://github.com/matheussricardoo.png" width="100" alt="Matheus Ricardo"/></a>
+        <br/><sub><b>Matheus Ricardo</b></sub><br/><br/>
+        <a href="https://github.com/matheussricardoo" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
+        <a href="https://www.linkedin.com/in/matheus-ricardo-426452266/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
       </td>
     </tr>
   </table>
